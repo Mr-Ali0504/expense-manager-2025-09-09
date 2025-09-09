@@ -51,7 +51,7 @@ expense-manager/
 - [x] JavaScript functionality
 - [x] Additional features
 - [x] Documentation
-- [ ] Final optimizations
+- [x] Final optimizations
 
 ## 🤝 Contributing
 This is a personal project, but suggestions are welcome!
